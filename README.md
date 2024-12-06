@@ -54,10 +54,10 @@ If you prefer a manual setup, include the Phaser library in an index.html file a
 4. Progress the Story: Your actions will influence the outcome of the adventure.
 
 **Code Structure**
-- index.html: The entry point for the game.
-- main.js: The core game logic and Phaser scenes.
-- assets/: Contains images, audio, and other game resources.
-- styles.css (optional): For customizing the UI if needed.
+- `index.html:` The entry point for the game.
+- `main.js:` The core game logic and Phaser scenes.
+- `assets/:` Contains images, audio, and other game resources.
+- `styles.css (optional):` For customizing the UI if needed.
 
 **Example Code Snippet**
 Here’s a sample of how to use Phaser click events in your game:
