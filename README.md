@@ -4,25 +4,22 @@ An interactive action-adventure fantasy game built with Phaser and JavaScript. P
 ---
 
 **Features**
-**Fantasy-Themed Adventure:** Embark on a thrilling journey through a richly crafted world filled with quests and challenges.
+- **Fantasy-Themed Adventure:** Embark on a thrilling journey through a richly crafted world filled with quests and challenges.
+- **Click-Based Interaction:** Explore the world, interact with NPCs, and uncover secrets using intuitive click events.
+- **Dynamic Storytelling:** Player choices influence the story’s progression, leading to multiple outcomes.
+- **Custom Art and Audio:** Enhance the gameplay experience with unique sprites, backgrounds, and soundtracks.
 
-**Click-Based Interaction:** Explore the world, interact with NPCs, and uncover secrets using intuitive click events.
-
-**Dynamic Storytelling:** Player choices influence the story’s progression, leading to multiple outcomes.
-
-**Custom Art and Audio:** Enhance the gameplay experience with unique sprites, backgrounds, and soundtracks.
-
-- **Technologies Used**
+**Technologies Used**
 - **Phaser 3:** A fast and robust HTML5 game framework.
 - **JavaScript:** For game logic and interactions.
 - **HTML5 Canvas:** For rendering graphics and animations.
 
 **Setup Instructions**
 
-**Prerequisites**
-- Node.js installed on your computer.
-- A code editor like VS Code.
-- Basic understanding of Phaser and JavaScript.
+ **Prerequisites**
+  - Node.js installed on your computer.
+  - A code editor like VS Code.
+  - Basic understanding of Phaser and JavaScript.
 
 **Steps**
 1. Clone the repository:
@@ -33,12 +30,14 @@ cd adventure-game
 ```
 2. Install dependencies (if applicable):
 
-```npm install
+```bash
+npm install
 ```
 
 3. Start a local server to run the game:
 
-```npm start
+```bash
+npm start
 ```
 4. Open the game in your browser:
 ```
