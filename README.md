@@ -20,46 +20,45 @@ An interactive action-adventure fantasy game built with Phaser and JavaScript. P
 **Setup Instructions**
 
 **Prerequisites**
-Node.js installed on your computer.
-A code editor like VS Code.
-Basic understanding of Phaser and JavaScript.
+- Node.js installed on your computer.
+- A code editor like VS Code.
+- Basic understanding of Phaser and JavaScript.
 
 **Steps**
-Clone the repository:
+1. Clone the repository:
 
-```bash
-Copy code
+```bash 
 git clone https://github.com/yourusername/adventure-game.git
 cd adventure-game
-Install dependencies (if applicable):
+```
+2. Install dependencies (if applicable):
+
+```npm install
 ```
 
-```bash
-Copy code
-npm install
-Start a local server to run the game:
+3. Start a local server to run the game:
+
+```npm start
 ```
-```bash
-Copy code
-npm start
-Open the game in your browser:
+4. Open the game in your browser:
 ```
-arduino
-Copy code
 http://localhost:8080
+```
 If you prefer a manual setup, include the Phaser library in an index.html file and open the file in your browser.
 
+---
+
 **How to Play**
-Start the Game: Begin your adventure with a single click.
-Explore: Click on various objects or areas to interact with them.
-Make Decisions: Choose your path through dialogue options and story events.
-Progress the Story: Your actions will influence the outcome of the adventure.
+1. Start the Game: Begin your adventure with a single click.
+2. Explore: Click on various objects or areas to interact with them.
+3. Make Decisions: Choose your path through dialogue options and story events.
+4. Progress the Story: Your actions will influence the outcome of the adventure.
 
 **Code Structure**
-index.html: The entry point for the game.
-main.js: The core game logic and Phaser scenes.
-assets/: Contains images, audio, and other game resources.
-styles.css (optional): For customizing the UI if needed.
+- index.html: The entry point for the game.
+- main.js: The core game logic and Phaser scenes.
+- assets/: Contains images, audio, and other game resources.
+- styles.css (optional): For customizing the UI if needed.
 
 **Example Code Snippet**
 Here’s a sample of how to use Phaser click events in your game:
@@ -73,19 +72,19 @@ Here’s a sample of how to use Phaser click events in your game:
 ```
 ---
 **Future Enhancements**
-Add more levels and story branches.
-Include character upgrades and inventory management.
-Integrate animations for a more immersive experience.
+- Add more levels and story branches.
+- Include character upgrades and inventory management.
+- Integrate animations for a more immersive experience.
 
 ---
 
 **Credits**
-Game developed by Your Name.
-Art and music assets from [codecademy](codecademy).
-Powered by Phaser.
+- Game developed by Gordon Ochieng.
+- Art and music assets from [codecademy](codecademy).
+- Powered by Phaser.
 
 --- 
 
 **License**
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
